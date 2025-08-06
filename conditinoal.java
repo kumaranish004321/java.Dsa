@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class conditinoal {
-    public static void main(String args[]){
+    public static void main(Strings args[]){
         Scanner Scanner = new Scanner(System.in);
         int age = Scanner.nextInt();
 

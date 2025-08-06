@@ -101,7 +101,7 @@ public class Solution{
 
    //_______________________________________________________________
    //calculate the Greatest Common Divisor of 2numbers.
-   public static void main(String[] args) {
+   public static void main(Strings[] args) {
     Scanner sc = new Scanner(System.in);
     int n1 = sc.nextInt();
     int n2 = sc.nextInt();

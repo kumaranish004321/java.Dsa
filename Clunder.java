@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Clunder {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner scanner = new Scanner(System.in);
         //input month numbers
         System.out.println("choose the numbers: 1 to 12. ");

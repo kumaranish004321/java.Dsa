@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 public class day {
-    public static void main(String args[]){
+    public static void main(Strings args[]){
         Scanner Scanner = new Scanner(System.in);
         // Input numbers
          

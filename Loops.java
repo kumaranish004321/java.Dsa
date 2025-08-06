@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Loops {
-    public static void main (String args[]){
+    public static void main (Strings args[]){
 
      //*    for(int i = 0; i<= 10; i++){
     

@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Solutions {
-    public static void main(String args[]) {
+    public static void main(Strings args[]) {
         // int n= 4;
 
         // upper part

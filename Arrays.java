@@ -3,7 +3,7 @@
 
 import java.util.*;
 public class Arrays{
-   /*ublic static void main(String[] args) {
+   /*public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
         String names[] = new String[size];
@@ -57,7 +57,7 @@ public class Arrays{
     //Take an array of numbers as input and check if it is array sorted in ascending order
 
 
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         int size =sc.nextInt();
         int numbers[] = new int[size];
